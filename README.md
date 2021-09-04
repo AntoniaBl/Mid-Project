@@ -1,5 +1,5 @@
 ## Ironhack Data Analytics Bootcamp 
-# **Term Term Project - Predicting house prices**
+# **Mid Term Project - Predicting house prices**
 
 ## **Goal of the project**
 
@@ -36,17 +36,17 @@ Linear Regression provided the best result. KNN and MLP are really low compared.
 
 ## **Libraries used**
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scipy.stats as stats
-import os
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
-import warnings
-import Functions
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import scipy.stats as stats
+- import os
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LinearRegression
+- from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
+- import warnings
+- import Functions
 
 ---
 
