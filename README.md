@@ -25,9 +25,9 @@ The process was done in the following steps:
 
 1. Without transformer the R2 scores of the model resulted in: 
 
-Linear Regression: 0.86, Mean absolute error: 67,470.00
-KNN Regressor (n=7): 0.57, Mean absolute error: 124,525.00
-MLP Regressor: R2 score: 0.58, Mean absolute error: 127,339.00
+- Linear Regression: 0.86, Mean absolute error: 67,470.00
+- KNN Regressor (n=7): 0.57, Mean absolute error: 124,525.00
+- MLP Regressor: R2 score: 0.58, Mean absolute error: 127,339.00
 
 Linear Regression provided the best result. KNN and MLP are really low compared.
 
