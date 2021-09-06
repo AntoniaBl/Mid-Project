@@ -1,0 +1,8 @@
+3.4 Remove duplicates, maintain newest entry (Nikole Projekt)
+3.7 Convert long into positive values
+3.9 Function to show both distr.+outliers side by side
+	3.9.1 Test Remove outliers(?)
+	3.9.2 Test replace with mean
+4.1.4 Check correlations categoricals
+
+
